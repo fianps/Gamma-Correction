@@ -1,4 +1,4 @@
-# PENGARUH GAMMA CORRECTION TERHADAP KINERJA WAKTU DENGAN MENERAPKAN SEQUENTIAL DAN PARALLEL PROGRAMMING
+# Pengaruh Gamma Correction Terhadap Kinerja Waktu Dengan Menerapkan Sequential dan Parallel Programming
 
 Gamma correction, juga dikenal sebagai gamma encoding atau gamma companding, adalah
 proses menyesuaikan luminansi (kecerahan) sinyal gambar atau video untuk mengkompensasi
